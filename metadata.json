@@ -1,0 +1,6 @@
+{
+  "name": "GeoSurveyor - Geological Field Survey & Structural Station",
+  "description": "Scientific field geology suite for structural mapping, strike & dip clinometer measurements, borehole stratigraphy logging, cross-section profiling, and petrological analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
